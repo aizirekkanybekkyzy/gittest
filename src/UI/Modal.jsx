@@ -47,11 +47,13 @@ export default Modal
 `
 
  const ButtonStyled = styled.button`
-  padding: 5px 25px;
-  background-color: #7777c0;
-  border-radius: 5px;
-  margin: 10px 5px; 
-  border-color: #afafe2;
+  border: 1px solid;
+  padding: 5px 20px;
+  margin-left : 15px;
+  background-color: #07183eca;
+  text-align: center;
+  border-radius: 10px;
+  border: none;
   font-weight: 900;
-  color: wheat;
+  color: #ffffff;
 `
