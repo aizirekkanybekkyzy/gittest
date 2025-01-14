@@ -24,6 +24,13 @@ function App() {
        colar : "green",
        img : "https://xiufa.ru/images/upload/smartfon-xiaomi-poco-x6-pro-5g-12-512gb-(zheltyj)_thumb256.jpg",
        id : 3
+    },
+    {
+       title : "Iphone",
+       summa : 60000,
+       colar : "green",
+       img : "https://www.istudio.store/cdn/shop/files/iPhone_16_Pro_Desert_Titanium_TH_1.jpg?v=1725929129&width=823",
+       id : 4
     }
   ]
   
