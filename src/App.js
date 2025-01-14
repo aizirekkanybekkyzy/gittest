@@ -29,7 +29,7 @@ function App() {
        title : "Iphone",
        summa : 60000,
        colar : "green",
-       img : "https://www.istudio.store/cdn/shop/files/iPhone_16_Pro_Desert_Titanium_TH_1.jpg?v=1725929129&width=823",
+       img : "https://dicentre.ru/wa-data/public/shop/products/27/09/30927/images/57821/57821.256x0.jpg",
        id : 4
     }
   ]
